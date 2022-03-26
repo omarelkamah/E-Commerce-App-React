@@ -2,6 +2,9 @@
 
 Create E-commerce App With React And Some Tecnology.
 
+## Live Preview.
+Open (https://e-commerce-react-hooks-app.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
